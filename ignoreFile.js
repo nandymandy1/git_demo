@@ -1,0 +1,3 @@
+function sampleIgnoreFunction() {
+    return true;
+}
